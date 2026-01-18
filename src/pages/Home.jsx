@@ -43,7 +43,7 @@ export default function Home() {
     <div className="home">
       <section className="hero">
         <div className="hero-content">
-          <h1>Welcome to SecureEvoting</h1>
+          <h1> to SecureEvoting</h1>
           <p>A transparent and secure voting platform for fair elections</p>
           {!userRole && (
             <div className="hero-buttons">
