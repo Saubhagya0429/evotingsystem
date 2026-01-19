@@ -44,7 +44,7 @@ export default function Home() {
       <section className="hero">
         <div className="hero-content">
           <h1>Welcome to SecureEvoting</h1>
-          <p>A transparent and secure voting platform for fair elections</p>
+          <p>A transparent and secure voting platform for fair elections in Sri Lanka</p>
           {!userRole && (
             <div className="hero-buttons">
               <a href="/login" className="btn btn-primary">Login</a>
